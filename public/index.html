@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>שאגת הארי – למידה אוריינית תשפ"ו</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- ═══ HEADER ═══ -->
+  <header id="app-header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <span class="logo">🦁</span>
+        <div class="brand-text">
+          <h1>שאגת הארי</h1>
+          <p>למידה אוריינית ביסודי · עשרת השבועות האחרונים תשפ"ו</p>
+        </div>
+      </div>
+      <nav class="breadcrumb" id="breadcrumb">
+        <span class="bc-home" onclick="showHome()">🏠 כל הכיתות</span>
+      </nav>
+    </div>
+  </header>
+
+  <!-- ═══ HOME PAGE ═══ -->
+  <main id="home-view">
+    <div class="page-intro">
+      <p>בחרי כיתה כדי לנהל את יומן עשרת השבועות, מאגר המיומנויות ופרופיל הכיתה</p>
+    </div>
+
+    <div class="grade-section">
+      <h2 class="grade-label grade-alef">שכבת א'</h2>
+      <div class="tiles-row" id="tiles-alef"></div>
+    </div>
+    <div class="grade-section">
+      <h2 class="grade-label grade-bet">שכבת ב'</h2>
+      <div class="tiles-row" id="tiles-bet"></div>
+    </div>
+    <div class="grade-section">
+      <h2 class="grade-label grade-gimel">שכבת ג'</h2>
+      <div class="tiles-row" id="tiles-gimel"></div>
+    </div>
+    <div class="grade-section">
+      <h2 class="grade-label grade-dalet">שכבת ד'</h2>
+      <div class="tiles-row" id="tiles-dalet"></div>
+    </div>
+    <div class="grade-section">
+      <h2 class="grade-label grade-heh">שכבת ה'</h2>
+      <div class="tiles-row" id="tiles-heh"></div>
+    </div>
+    <div class="grade-section">
+      <h2 class="grade-label grade-vav">שכבת ו'</h2>
+      <div class="tiles-row" id="tiles-vav"></div>
+    </div>
+  </main>
+
+  <!-- ═══ CLASS DASHBOARD ═══ -->
+  <main id="class-view" class="hidden">
+
+    <!-- Tabs -->
+    <div class="tabs-bar">
+      <button class="tab-btn active" data-tab="goals">🎯 יעדי המפמ"ר</button>
+      <button class="tab-btn" data-tab="skills">📋 מאגר מיומנויות</button>
+      <button class="tab-btn" data-tab="profile">👥 פרופיל כיתתי</button>
+      <button class="tab-btn" data-tab="journal">📅 יומן 10 שבועות</button>
+    </div>
+
+    <!-- Tab: Goals -->
+    <div class="tab-panel" id="tab-goals">
+      <h2 id="goals-title"></h2>
+      <ul id="goals-list" class="goals-list"></ul>
+
+      <div class="strategy-box">
+        <h3>עקרונות מנחים לכל שכבות הגיל</h3>
+        <div class="strategy-grid">
+          <div class="strategy-card">
+            <h4>📖 הוראה הוליסטית</h4>
+            <p>טקסט מרכזי כמצע לכל רכיבי האוריינות: קריאה, הבנה, הבעה, אוצר מילים</p>
+          </div>
+          <div class="strategy-card">
+            <h4>🤝 מודל "איתי ולידי"</h4>
+            <p><strong>איתי:</strong> הוראה מפורשת בקבוצה קטנה עד 20 דקות<br>
+               <strong>לידי:</strong> למידה עצמית או בחברותא</p>
+          </div>
+          <div class="strategy-card">
+            <h4>📚 קריאה יומית</h4>
+            <p>עוגן של 15 דקות קריאה אישית/בחברותא בכל יום</p>
+          </div>
+          <div class="strategy-card">
+            <h4>✍️ כתיבה הבעתית</h4>
+            <p>תלקיט כתיבה: נרטיבית, מידעית, טיעונית, רפלקטיבית</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Tab: Skills -->
+    <div class="tab-panel hidden" id="tab-skills">
+      <div class="panel-header">
+        <h2>מאגר מיומנויות – <span id="skills-class-name"></span></h2>
+        <p class="panel-sub">ערכי את רשימת המיומנויות הבית-ספרית לכיתה. שינויים נשמרים אוטומטית.</p>
+      </div>
+      <div id="skills-container"></div>
+      <button class="btn-add" id="btn-add-skill">+ הוספת מיומנות</button>
+    </div>
+
+    <!-- Tab: Profile -->
+    <div class="tab-panel hidden" id="tab-profile">
+      <div class="panel-header">
+        <h2>פרופיל כיתתי – <span id="profile-class-name"></span></h2>
+        <p class="panel-sub">העלי את קובץ הפרופיל הכיתתי ורשמי הערות על תלמידי הכיתה</p>
+      </div>
+
+      <div class="upload-area" id="upload-area">
+        <div class="upload-icon">📁</div>
+        <p>גרירה ושחרור קובץ, או לחיצה לבחירה</p>
+        <p class="upload-hint">PDF, Word, Excel – עד 10MB</p>
+        <input type="file" id="file-input" style="display:none" accept=".pdf,.doc,.docx,.xls,.xlsx">
+        <button class="btn-upload" onclick="document.getElementById('file-input').click()">בחרי קובץ</button>
+        <div id="upload-status"></div>
+      </div>
+
+      <div class="profile-notes">
+        <label for="profile-textarea"><strong>הערות ומידע על הכיתה</strong></label>
+        <textarea id="profile-textarea" placeholder="רשמי כאן הערות על הכיתה, תלמידים מיוחדים, שיטות עבודה, וכל מידע רלוונטי..."></textarea>
+      </div>
+    </div>
+
+    <!-- Tab: Journal -->
+    <div class="tab-panel hidden" id="tab-journal">
+      <div class="panel-header">
+        <h2>יומן 10 השבועות – <span id="journal-class-name"></span></h2>
+        <p class="panel-sub">תכנון שבועי: יעד, עבודה דיפרנציאלית, והתייחסות מדריכה. שינויים נשמרים אוטומטית.</p>
+      </div>
+
+      <div id="journal-container"></div>
+    </div>
+
+  </main>
+
+  <!-- ═══ TOAST ═══ -->
+  <div id="toast" class="toast hidden"></div>
+
+  <!-- ═══ ONLINE INDICATOR ═══ -->
+  <div id="conn-indicator" class="conn-dot disconnected" title="חיבור שרת"></div>
+
+  <script src="app.js"></script>
+</body>
+</html>

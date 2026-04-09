@@ -1,0 +1,1336 @@
+{
+  "classes": {
+    "alef-tzvia": {
+      "name": "א-צביה",
+      "grade": "א",
+      "goals": [
+        "השלמת תהליך רכישת הקריאה והכתיבה בקרב כלל התלמידים",
+        "אופטימיזציה של קצב ההוראה לצורך האצת רכישת סימני הניקוד",
+        "הוראה מפורשת ושיטתית של הצופן האלפביתי",
+        "הוראה בקבוצות קטנות – מודל \"איתי ולידי\"",
+        "עידוד כתיבה ספונטנית ולגיטימציה לטעויות",
+        "קריאה דיאלוגית שיתופית של ספרי ילדים איכותיים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "פענוח פונולוגי",
+        "ידע בסימני ניקוד",
+        "קריאה בקול",
+        "הבנת הנקרא",
+        "כתיבה ספונטנית",
+        "אוצר מילים בסיסי"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "alef-avigail": {
+      "name": "א-אביגיל",
+      "grade": "א",
+      "goals": [
+        "השלמת תהליך רכישת הקריאה והכתיבה בקרב כלל התלמידים",
+        "אופטימיזציה של קצב ההוראה לצורך האצת רכישת סימני הניקוד",
+        "הוראה מפורשת ושיטתית של הצופן האלפביתי",
+        "הוראה בקבוצות קטנות – מודל \"איתי ולידי\"",
+        "עידוד כתיבה ספונטנית ולגיטימציה לטעויות",
+        "קריאה דיאלוגית שיתופית של ספרי ילדים איכותיים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "פענוח פונולוגי",
+        "ידע בסימני ניקוד",
+        "קריאה בקול",
+        "הבנת הנקרא",
+        "כתיבה ספונטנית",
+        "אוצר מילים בסיסי"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "bet-dganit": {
+      "name": "ב-דגנית",
+      "grade": "ב",
+      "goals": [
+        "ביסוס שטף הקריאה: דיוק, קצב ופרוזודיה",
+        "מעבר מפענוח מאומץ לקריאה שוטפת, רהוטה והבעתית",
+        "הרחבת אוצר מילים והידע המורפולוגי",
+        "מרתוני קריאה לשיפור הדיוק והאוטומטיזציה",
+        "תרגול קריאה בזיקה להבנת הנקרא"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "שטף קריאה – דיוק",
+        "שטף קריאה – קצב",
+        "פרוזודיה",
+        "הבנת הנקרא",
+        "אוצר מילים",
+        "ידע מורפולוגי"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "bet-sara": {
+      "name": "ב-שרה",
+      "grade": "ב",
+      "goals": [
+        "ביסוס שטף הקריאה: דיוק, קצב ופרוזודיה",
+        "מעבר מפענוח מאומץ לקריאה שוטפת, רהוטה והבעתית",
+        "הרחבת אוצר מילים והידע המורפולוגי",
+        "מרתוני קריאה לשיפור הדיוק והאוטומטיזציה",
+        "תרגול קריאה בזיקה להבנת הנקרא"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "שטף קריאה – דיוק",
+        "שטף קריאה – קצב",
+        "פרוזודיה",
+        "הבנת הנקרא",
+        "אוצר מילים",
+        "ידע מורפולוגי"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "gimel-orly": {
+      "name": "ג-אורלי",
+      "grade": "ג",
+      "goals": [
+        "ביסוס שטף הקריאה: דיוק, קצב ופרוזודיה",
+        "מיקוד במעבר לקריאת הכתיב הבלתי מנוקד",
+        "הרחבת אוצר מילים והידע המורפולוגי",
+        "הקנאת אסטרטגיות לקריאה ללא ניקוד (הסתמכות על הקשר)",
+        "טיפוח מודעות מורפולוגית דרך חקירת מילים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "שטף קריאה מנוקד",
+        "קריאת כתיב לא מנוקד",
+        "אסטרטגיות הבנה",
+        "ידע מורפולוגי",
+        "אוצר מילים",
+        "כתיבה יצירתית"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "gimel-magi": {
+      "name": "ג-מגי",
+      "grade": "ג",
+      "goals": [
+        "ביסוס שטף הקריאה: דיוק, קצב ופרוזודיה",
+        "מיקוד במעבר לקריאת הכתיב הבלתי מנוקד",
+        "הרחבת אוצר מילים והידע המורפולוגי",
+        "הקנאת אסטרטגיות לקריאה ללא ניקוד (הסתמכות על הקשר)",
+        "טיפוח מודעות מורפולוגית דרך חקירת מילים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "שטף קריאה מנוקד",
+        "קריאת כתיב לא מנוקד",
+        "אסטרטגיות הבנה",
+        "ידע מורפולוגי",
+        "אוצר מילים",
+        "כתיבה יצירתית"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "dalet-miri": {
+      "name": "ד-מירי",
+      "grade": "ד",
+      "goals": [
+        "שכלול כישורי ההפקה וההבנה של טקסטים מסוגות שונות",
+        "ביסוס הידע הלשוני: אוצר מילים, מורפולוגיה ותחביר",
+        "למידה מפורשת של ניטור הבנה ובקרה על הקריאה",
+        "הרחבת ההתנסויות בכתיבה רפלקטיבית ואישית",
+        "קריאה שיתופית של טקסטים מרחיבי דעת ומעוררי מחשבה"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "הבנת טקסט מידעי",
+        "הבנת טקסט ספרותי",
+        "ניטור הבנה",
+        "אוצר מילים אקדמי",
+        "ידע תחבירי",
+        "כתיבה רפלקטיבית"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "heh-michal": {
+      "name": "ה-מיכל",
+      "grade": "ה",
+      "goals": [
+        "שכלול כישורי ההפקה וההבנה של טקסטים מסוגות שונות",
+        "ביסוס הידע הלשוני: אוצר מילים, מורפולוגיה ותחביר",
+        "למידה מפורשת של אסטרטגיות ניבוי ושאילת שאלות",
+        "כתיבה שיתופית במסמכים דיגיטליים",
+        "שימוש ביחידות \"מטקסט לשיעור\" ובאינטראקציה דיגיטלית"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "הבנת טקסטים מורכבים",
+        "ניבוי ושאילת שאלות",
+        "ידע לשוני",
+        "כתיבה מידעית",
+        "כתיבה טיעונית",
+        "אוצר מילים מעמיק"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "vav-eti": {
+      "name": "ו-אתי",
+      "grade": "ו",
+      "goals": [
+        "שכלול ההבנה וההפקה של טקסטים מורכבים ממקורות מגוונים",
+        "פיתוח מיומנויות המאה ה-21: מכוונות עצמית, אוריינות דיגיטלית, חשיבה ביקורתית",
+        "פיתוח הכתיבה ככלי לביטוי עצמי ולהשתתפות חברתית",
+        "הכנה לדרישות חטיבת הביניים: פרויקטים, פרזנטציות, פודקאסטים",
+        "למידה מפורשת של אסטרטגיות מיזוג מידע ממקורות שונים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "פרשנות טקסט",
+        "אינטגרציה ממקורות",
+        "חשיבה ביקורתית",
+        "כתיבה מנומקת",
+        "אוריינות דיגיטלית",
+        "אוריינות הצגתית"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    },
+    "vav-varda": {
+      "name": "ו-ורדה",
+      "grade": "ו",
+      "goals": [
+        "שכלול ההבנה וההפקה של טקסטים מורכבים ממקורות מגוונים",
+        "פיתוח מיומנויות המאה ה-21: מכוונות עצמית, אוריינות דיגיטלית, חשיבה ביקורתית",
+        "פיתוח הכתיבה ככלי לביטוי עצמי ולהשתתפות חברתית",
+        "הכנה לדרישות חטיבת הביניים: פרויקטים, פרזנטציות, פודקאסטים",
+        "למידה מפורשת של אסטרטגיות מיזוג מידע ממקורות שונים"
+      ],
+      "profileNotes": "",
+      "profileFileName": null,
+      "skills": [
+        "פרשנות טקסט",
+        "אינטגרציה ממקורות",
+        "חשיבה ביקורתית",
+        "כתיבה מנומקת",
+        "אוריינות דיגיטלית",
+        "אוריינות הצגתית"
+      ],
+      "weeks": [
+        {
+          "num": 1,
+          "startDate": "12/4",
+          "endDate": "16/4",
+          "label": "שבוע 1 – 12–16 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 2,
+          "startDate": "19/4",
+          "endDate": "23/4",
+          "label": "שבוע 2 – 19–23 באפריל",
+          "holiday": "⭐ יום הזיכרון 21/4, יום העצמאות 22/4",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 3,
+          "startDate": "26/4",
+          "endDate": "30/4",
+          "label": "שבוע 3 – 26–30 באפריל",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 4,
+          "startDate": "3/5",
+          "endDate": "7/5",
+          "label": "שבוע 4 – 3–7 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 5,
+          "startDate": "10/5",
+          "endDate": "14/5",
+          "label": "שבוע 5 – 10–14 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 6,
+          "startDate": "17/5",
+          "endDate": "21/5",
+          "label": "שבוע 6 – 17–21 במאי",
+          "holiday": "⭐ ערב שבועות 21/5",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 7,
+          "startDate": "25/5",
+          "endDate": "29/5",
+          "label": "שבוע 7 – 25–29 במאי",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 8,
+          "startDate": "1/6",
+          "endDate": "5/6",
+          "label": "שבוע 8 – 1–5 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 9,
+          "startDate": "8/6",
+          "endDate": "12/6",
+          "label": "שבוע 9 – 8–12 ביוני",
+          "holiday": "",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        },
+        {
+          "num": 10,
+          "startDate": "15/6",
+          "endDate": "26/6",
+          "label": "שבוע 10 – 15–26 ביוני",
+          "holiday": "🏁 סוף שנה",
+          "goal": "",
+          "differentiation": "",
+          "notes": "",
+          "feedback": []
+        }
+      ]
+    }
+  }
+}
