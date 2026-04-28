@@ -1,0 +1,69 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ── Helper functions ──────────────────────────────────────────────────────
+
+    // Returns true if the requesting user is logged in
+    function loggedIn() {
+      return request.auth != null;
+    }
+
+    // Fetches the user's role from their profile document (safe: returns '' if doc missing)
+    function getRole() {
+      let p = /databases/$(database)/documents/users/$(request.auth.uid);
+      return loggedIn() && exists(p) ? get(p).data.get('role', '') : '';
+    }
+
+    // Fetches the user's assigned classIds (safe: returns [] if doc missing)
+    function getClassIds() {
+      let p = /databases/$(database)/documents/users/$(request.auth.uid);
+      return loggedIn() && exists(p) ? get(p).data.get('classIds', []) : [];
+    }
+
+    // True if the user is a coach OR manager (full access to everything)
+    function isAdmin() {
+      return getRole() == 'coach' || getRole() == 'manager';
+    }
+
+    // True if the class is in the teacher's assigned list
+    function ownsClass(classId) {
+      return loggedIn() && classId in getClassIds();
+    }
+
+    // ── User profiles ─────────────────────────────────────────────────────────
+    match /users/{uid} {
+      // Any logged-in user can read their own profile; admins can read all
+      allow read:  if loggedIn() && (request.auth.uid == uid || isAdmin());
+      // Users may create/update their own profile (needed on first login to register
+      // their role+classIds so Firestore rules can verify class ownership).
+      // Admins may write any profile.
+      allow write: if loggedIn() && request.auth.uid == uid || isAdmin();
+    }
+
+    // ── Class documents ───────────────────────────────────────────────────────
+    match /classes/{classId} {
+      // Public read: needed for login-page class-name lookup (before auth exists)
+      allow read:  if true;
+      // Admins (coach/manager) edit any class; teachers only their own
+      allow write: if isAdmin() || ownsClass(classId);
+
+      // ── Week documents ──────────────────────────────────────────────────────
+      match /weeks/{weekNum} {
+        allow read:  if loggedIn();
+        allow write: if isAdmin() || ownsClass(classId);
+
+        // ── Feedback ──────────────────────────────────────────────────────────
+        match /feedback/{feedbackId} {
+          allow read:   if loggedIn();
+          // Any logged-in user can add feedback
+          allow create: if loggedIn();
+          // Only the author or an admin can delete
+          allow delete: if isAdmin() || request.auth.uid == resource.data.uid;
+          // Feedback is immutable once posted
+          allow update: if false;
+        }
+      }
+    }
+  }
+}

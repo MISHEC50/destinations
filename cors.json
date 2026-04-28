@@ -1,0 +1,8 @@
+[
+  {
+    "origin": ["https://shagat-haari.web.app", "https://shagat-haari.firebaseapp.com"],
+    "method": ["GET", "POST", "PUT", "DELETE", "HEAD"],
+    "maxAgeSeconds": 3600,
+    "responseHeader": ["Content-Type", "Authorization", "Content-Length", "X-Requested-With"]
+  }
+]
